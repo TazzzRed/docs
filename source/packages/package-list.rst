@@ -3,7 +3,6 @@ Package List
 
 .. toctree::
    :hidden:
-
    arping-package
    avahi-package
    freeradius-package
@@ -31,10 +30,7 @@ The following packages are available from the pfSense® package repository:
 -  :doc:`arping <arping-package>` - Broadcasts a who-has ARP packet on the
    network and prints answers.
 
--  **apcupsd** - Package can be used for controlling all APC UPS models
-   It can monitor and log the current power and battery status, perform
-   automatic shutdown, and can run in network mode in order to power
-   down other hosts on a LAN
+-  **apcupsd** - Package can be used for controlling all APC UPS models. It can monitor and log the current power and battery status, perform automatic shutdown, and can run in network mode in order to power down other hosts on a LAN.
 
 -  :doc:`Avahi <avahi-package>` - Avahi is a system which facilitates service
    discovery on a local network via the mDNS/DNS-SD protocol suite. This enables
